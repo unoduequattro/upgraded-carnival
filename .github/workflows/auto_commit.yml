@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Create file
-        run: echo "semrush_key=shakalaka+$(date +%s)" > file.txt
+        run: echo "link=www.semrush.com\nkey=shakalaka+$(date +%s)" > file.txt
       - name: Commit file
         run: |
           git config --global user.name 'unoduequattro'
