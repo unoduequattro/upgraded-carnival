@@ -1,2 +1,1 @@
-link=www.semrush.com
-key=shakalaka+1619032747
+link=www.semrush.com\nkey=shakalaka+1619102962
